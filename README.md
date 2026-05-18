@@ -48,7 +48,7 @@ Para superar essas dificuldades, utilizei como base os materiais disponibilizado
 
 
 - **Principal Aprendizado:**
-Os principais aprendizados foram a melhor compreensão de como funciona a integração com o banco de dados, especialmente nas operações de CRUD. Também consegui entender melhor como as partes do sistema são interligadas e o funcionamento das camadas Controller, DAO e View.
+Os principais aprendizados foram a melhor compreensão de como funciona a integração com o banco de dados, especialmente nas operações de CRUD. Também consegui entender melhor como as partes do sistema são interligadas e o funcionamento das camadas MVC e DAO.
 
 
 ## Declaração de Uso de IA
