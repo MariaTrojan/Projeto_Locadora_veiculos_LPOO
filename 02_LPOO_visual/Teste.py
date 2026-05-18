@@ -1,1 +1,0 @@
-from views.veiculo_list_view_2 import *
